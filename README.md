@@ -15,7 +15,7 @@
     | Tag | Features | Magento|
     | --- | --- | --- |
     | `2.2.x` | PHP version **7.1.30** | Magento 2.2.x |
-    | `2.3.x` | PHP version **7.2.30** | Magento 2.3.x |    
+    | `2.3.x` | PHP version **7.2.20** | Magento 2.3.x |    
     
     You can visit: [magento2-tags](https://cloud.docker.com/repository/docker/yaissaoui/magento2/tags)
     
